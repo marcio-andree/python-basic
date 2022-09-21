@@ -3,12 +3,12 @@
 # Operadores de igualdade
 # Operadores ternário
 idade = 20
-print(idade > 30)
-print(idade < 30)
-print(idade <= 30)
-print(idade >= 30)
-print(idade == 30)
-print(idade  !=30)
+print(idade > 30) # maior
+print(idade < 30) # menor
+print(idade <= 30) # memor ou igual
+print(idade >= 30) # maior ou igual
+print(idade == 30) # igual
+print(idade != 30) # diferente
 
 
 
