@@ -8,6 +8,6 @@ print(valores)
 valores.sort(reverse=True)
 print(valores)
 
-
+# metodo reverse() ordena uma lista de trás para frente
 valores.reverse()
 print(valores)
