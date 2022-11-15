@@ -5,6 +5,7 @@ meioFla = ('Thiago Maia', 'João Gomes', 'Gerson', 'Vidal')
 print(ataqueFla)
 print(ataqueFla[1])
 
+# juntar uma tupla
 frontFla = ataqueFla + meioFla
 
 print(frontFla)
